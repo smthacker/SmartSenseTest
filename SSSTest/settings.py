@@ -131,7 +131,7 @@ USE_TZ = True
 
 INITIAL_URL_LEN = 6
 RETRY_COUNT = 5
-SHORT_URL_PATH = 'http://127.0.0.1:8000/short-prefix/'
+SHORT_URL_PATH = 'http://127.0.0.1:8000/linkshortening/'
 REDIRECT_PREFIX = 'r'
 
 # Static files (CSS, JavaScript, Images)
